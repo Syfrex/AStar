@@ -6,5 +6,4 @@ make logic simular to his. I have added my own logic untop of his and removed/op
 to show how the A Star works. 
 
 Also: I've learned much about A Star at: https://www.redblobgames.com/pathfinding/a-star/introduction.html 
-and strongly recommend you to show this to future students that are interested. Its an interactable website
-that talks about the various types of A Star.  
+and strongly recommend to check it out. Its an interactable website that talks about the various types of A Star.  
